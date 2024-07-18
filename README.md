@@ -1,3 +1,3 @@
 <h1>hexlet-my-first-workflow</h1>
 
-![example workflow](https://github.com/github/docs/actions/workflows/hello-world.yml/badge.svg)
+[![Hello World Workflow](https://github.com/MaxSedachev/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/MaxSedachev/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
